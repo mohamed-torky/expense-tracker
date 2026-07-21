@@ -28,3 +28,4 @@ def close_connection():
     db.commit()
     db.close()
     print("Database connection closed.")
+    print("Thank you for using the Expense Tracker. Goodbye!")
